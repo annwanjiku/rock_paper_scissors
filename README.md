@@ -1,2 +1,2 @@
-# rockpaperscissors
-[https://annwanjiku.github.io/rockpaperscissors-/](https://annwanjiku.github.io/rockpaperscissors-/)
+
+***[play](https://annwanjiku.github.io/rock_paper_scissors-/)***
