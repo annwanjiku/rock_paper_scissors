@@ -1,2 +1,2 @@
 
-***[play](https://annwanjiku.github.io/rock_paper_scissors-/)***
+***[play](https://annwanjiku.github.io/rock_paper_scissors/)***
